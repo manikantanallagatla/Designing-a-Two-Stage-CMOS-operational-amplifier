@@ -1,7 +1,7 @@
-#***Designing-a-Two-Stage-CMOS-operational-amplifier:***
+# ***Designing-a-Two-Stage-CMOS-operational-amplifier:***
 
 ----------
-###*Abstract*:
+### *Abstract*:
 
 ----------
 
@@ -14,7 +14,7 @@ of 50MHz and exhibits a gain of 120dB.
 Simulation results are verified using LTSpice.
 
 -------------
-###*Specifications*:
+### *Specifications*:
 
 -------------
 
@@ -26,7 +26,7 @@ Simulation results are verified using LTSpice.
 - Vdd: 3.3 V
 
 -------------
-###*Introduction*:
+### *Introduction*:
 
 -------------
 
@@ -35,7 +35,7 @@ by MOS market. Operational Amplifier is the most common building blocks of most 
 In this project we have designed a two stage opamp in LTSpice with the above given parameters
 
 -------------
-###*Working*:
+### *Working*:
 
 -------------
 
@@ -46,7 +46,7 @@ from the current mirrors and a decent phase margin.
 
 
 -------------
-###*Conclusion*:
+### *Conclusion*:
 
 -------------
 
@@ -56,7 +56,7 @@ Power consumption:4.4mW
 Slew rate:1 V/μs
 
 -------------
-###*Usage*:
+### *Usage*:
 
 -------------
 Run main.asc file in LT Spice to get resulting graph.
